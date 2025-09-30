@@ -1,4 +1,4 @@
-# Nasi-golang
+# golang basic
 
 ## Formatting
 
